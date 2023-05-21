@@ -1,0 +1,34 @@
+.button1{
+    padding: 5px 30px;
+    font-size: 17px;font-weight: bold;
+    font-style: italic;
+    background-color: #8FBC8F;
+
+}
+.button2{
+    padding: 5px 30px;
+    font-size: 17px;font-weight: bold;
+    font-style: italic;
+    background-color: #2F4F4F;
+
+}
+.fullcontent{
+    margin-top: 100px;
+}
+.taskmaneger{
+    font-style: italic;
+    font-stretch: narrower;
+}
+.textarea1{
+    width: 110px;
+    height: 110px;
+    overflow: auto;
+    word-wrap: break-word;
+}
+.title1{
+    font-style: italic;
+}
+.DailyRoutine{
+    font-style: italic;
+    color: #8FBC8F;
+}

@@ -1,0 +1,15 @@
+
+.navbar-brand{
+    font-weight: bold;
+    font-style: italic;
+}
+.navbar-nav{
+    margin-left: 180px;
+}
+.nav-item{
+    margin-left: 50px;
+}
+.nav-item a{
+  font-style: italic;
+  text-decoration: none;
+}
